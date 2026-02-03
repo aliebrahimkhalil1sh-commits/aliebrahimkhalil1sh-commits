@@ -52,8 +52,7 @@ Currently learning Flutter and building projects step by step to improve my skil
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=aliebrahimkhalil1sh-commits&show_icons=true&theme=tokyonight" width="48%" />
 
