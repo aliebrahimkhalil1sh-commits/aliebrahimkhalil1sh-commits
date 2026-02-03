@@ -1,76 +1,76 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Ali</h1>
-<h3>Computer Science Graduate | Junior Flutter Developer</h3>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me | نبذة عني
-🎓 خريج **حاسبات ومعلومات**  
-📱 بتعلم وبطوّر تطبيقات موبايل باستخدام **Flutter & Dart**  
-🧠 عندي أساسيات قوية في البرمجة و Problem Solving  
+## 👋 Hi, I'm Ali 👨‍💻
 
-I'm currently focused on learning Flutter deeply and building real projects to improve my skills step by step.
+🎓 **Computer Science graduate**  
+📱 **Junior Flutter Developer**  
+🧠 Strong fundamentals in programming & problem solving  
 
----
-
-## 🚀 Flutter Projects | مشاريع Flutter
-> مشاريع بسيطة للتعلم والتطبيق العملي
-
-- 📱 **Todo App**
-  - Flutter & Dart  
-  - Local storage (SQLite / SharedPreferences)  
-  - Clean UI  
-
-- 📱 **Weather App**
-  - REST API  
-  - HTTP requests  
-  - Simple state management  
-
-- 📱 **Notes App**
-  - CRUD operations  
-  - Firebase (basic usage)  
-
-> 🔹 *More projects coming soon...*
+I'm currently focused on learning and building mobile applications using **Flutter & Dart**, with an interest in clean code and good UI practices.
 
 ---
 
-## 🛠️ Tech Stack | الأدوات والتقنيات
+## 🚀 What I'm working on
+- Learning Flutter deeply through practice  
+- Building small to medium Flutter apps  
+- Improving problem-solving and software fundamentals  
 
-### Mobile Development
+---
+
+## 🛠️ Tech Stack (Learning & Using)
+
+### 📱 Mobile
 - Flutter  
 - Dart  
 
-### Programming Fundamentals
+### 💻 Programming Fundamentals
 - C / C++  
 - Java  
 - Python  
+- JavaScript  
 
-### Basics
+### 🌐 Basics
 - HTML  
 - CSS  
 - JSON  
 
-### Tools
+### 🧰 Tools
 - Git & GitHub  
-- Firebase (basic)  
+- Firebase (basic usage)  
 - SQLite  
 - VS Code  
 
 ---
 
-## 📚 Currently Learning | بتعلم حاليًا
+## 📚 Currently Learning
 - Advanced Flutter concepts  
-- State Management basics  
-- Clean Code principles  
+- State management basics  
+- Clean code practices  
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="48%" />
+
+</div>
 
 ---
 
 ## 📫 Contact
-- Telegram: **@your_username**
+- Telegram: **[Your Telegram]**
 
 ---
+
+⭐ *Always learning, always improving.*
+
 
 ⭐ Always learning, always improving.
