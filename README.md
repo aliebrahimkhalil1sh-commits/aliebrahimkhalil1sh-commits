@@ -3,16 +3,16 @@
 🎓 Computer Science Graduate  
 📱 Junior Flutter Developer  
 
-I'm a computer science graduate with solid programming fundamentals.  
-Currently learning Flutter and building projects step by step to improve my skills.
+I’m a Computer Science graduate with solid programming fundamentals.  
+Currently learning Flutter and building projects step by step to continuously improve my skills.
 
 ---
 
 ## 👨‍💻 About Me | نبذة عني
-- خريج **حاسبات ومعلومات**
-- عندي أساسيات قوية في البرمجة و Problem Solving
-- بتعلم Flutter و Dart وبتطبق عملي على قد ما أقدر
-- مهتم إن الكود يكون واضح ونضيف
+- Computer Science graduate
+- Strong programming fundamentals and problem-solving skills
+- Currently learning Flutter and Dart with hands-on practice
+- Interested in writing clean, readable, and well-structured code
 
 ---
 
@@ -31,33 +31,26 @@ Currently learning Flutter and building projects step by step to improve my skil
 ---
 
 ## 🚀 Flutter Projects | مشاريع Flutter
-> مشاريع بسيطة للتعلم والتطبيق العملي
+> Simple projects for learning and hands-on practice
 
 - 📱 Todo App  
-  - Flutter & Dart  
-  - UI + basic logic  
+  - Built with Flutter & Dart  
+  - UI with basic logic  
 
 - 📱 Notes App  
-  - CRUD basics  
-  - Local data (learning purpose)  
+  - CRUD fundamentals  
+  - Local data storage (learning purpose)  
 
-> *More projects will be added as I keep learning.*
+> *More projects will be added as I continue learning and improving.*
 
 ---
 
 ## 📚 Currently Learning
 - Flutter fundamentals in depth  
 - State management basics  
-- Writing cleaner and more organized code  
-
----
-
-
-
-
-
-</div>
+- Writing cleaner, more organized, and maintainable code  
 
 ---
 
 ⭐ Always learning, always improving.
+
