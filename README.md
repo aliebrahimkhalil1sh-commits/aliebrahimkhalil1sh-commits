@@ -1,15 +1,15 @@
 ## Hi 👋, I'm Ali
 
-🎓 Computer Science Graduate  
+🎓 Computer Science student
 📱 Junior Flutter Developer  
 
-I’m a Computer Science graduate with solid programming fundamentals.  
+I’m a Computer Science student with solid programming fundamentals.  
 Currently learning Flutter and building projects step by step to continuously improve my skills.
 
 ---
 
 ## 👨‍💻 About Me | نبذة عني
-- Computer Science graduate
+- Computer Science student
 - Strong programming fundamentals and problem-solving skills
 - Currently learning Flutter and Dart with hands-on practice
 - Interested in writing clean, readable, and well-structured code
